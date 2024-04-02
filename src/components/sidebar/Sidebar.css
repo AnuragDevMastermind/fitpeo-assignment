@@ -1,0 +1,36 @@
+.vector-icon70 {
+  width: 4.6px;
+  position: relative;
+  height: 7.5px;
+}
+.image-1-icon5 {
+  width: 28px;
+  position: relative;
+  border-radius: var(--br-xl);
+  height: 28px;
+  object-fit: cover;
+}
+.product-manager4 {
+  position: relative;
+  font-weight: 500;
+  color: var(--color-darkgray-400);
+}
+.evano-parent2,
+.image-1-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-1-parent3 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-6xs);
+}
+.ic-arrow-down-1-icon4 {
+  width: 19px;
+  position: relative;
+  height: 19px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
